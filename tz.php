@@ -67,7 +67,7 @@ class embed_ext extends embed {
 
 	// Facebook Graph API params
 	protected $fb_graph_api = 'https://graph.facebook.com/';
-	protected $fb_token = 'AAACEdEose0cBAJvTvnUN93iFoPuaYg5DcL94jN9UVwTvg2x8aJsg43eoVaAsazRwPnOuTA2YEZAvVsBBFyU7X6ZAM7IlsUHZAof4RPDI4BdHCdnHxsn';
+	protected $fb_token = 'AAACEdEose0cBAGtY6G6PhpCRSNvZC8t1vzi9zUQWK3o8ZBZCg0qSficW74UmMC79HKx0jBmNjjxUzRjk6CZCFFcSasabp41mxW1oTmEhyUYBPwSeqETi';
 
 	protected $video_info = array();
 	protected $embed_info = array();
